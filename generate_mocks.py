@@ -1,8 +1,3 @@
-"""
-generate_mocks.py — деректерден public/data/*.json мок файлдарын жасайды.
-Іске қосу: python3 generate_mocks.py
-Алдын ала load_db.py іске қосылған болуы керек (transactions.db жасалған).
-"""
 import pandas as pd
 import json
 import sqlite3
