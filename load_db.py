@@ -1,7 +1,3 @@
-"""
-load_db.py — очищает transactions.csv и загружает в SQLite.
-Запуск: python load_db.py
-"""
 import pandas as pd
 import sqlite3
 import re
