@@ -1,5 +1,3 @@
--- sql/queries.sql
--- Загрузка: python load_db.py (создаёт transactions.db из cleaned CSV)
 
 -- Запрос 1: Топ-10 пар контрагентов по сумме оборота
 SELECT
